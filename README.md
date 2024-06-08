@@ -1,3 +1,4 @@
 # ai-case-study
+# Stephen H. Hulme
 
-June 2024 AI Bootcamp Module 1 Challenge
+June 13 2024 AI Bootcamp Module 1 Challenge
